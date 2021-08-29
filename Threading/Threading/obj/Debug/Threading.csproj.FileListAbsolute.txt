@@ -1,0 +1,7 @@
+C:\TRAINING\Threading\Threading\bin\Debug\Threading.exe.config
+C:\TRAINING\Threading\Threading\bin\Debug\Threading.exe
+C:\TRAINING\Threading\Threading\bin\Debug\Threading.pdb
+C:\TRAINING\Threading\Threading\obj\Debug\Threading.csproj.AssemblyReference.cache
+C:\TRAINING\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\TRAINING\Threading\Threading\obj\Debug\Threading.exe
+C:\TRAINING\Threading\Threading\obj\Debug\Threading.pdb

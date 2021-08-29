@@ -1,0 +1,7 @@
+C:\TRAINING\Synchronization\Synchronization\bin\Debug\Synchronization.exe.config
+C:\TRAINING\Synchronization\Synchronization\bin\Debug\Synchronization.exe
+C:\TRAINING\Synchronization\Synchronization\bin\Debug\Synchronization.pdb
+C:\TRAINING\Synchronization\Synchronization\obj\Debug\Synchronization.csproj.AssemblyReference.cache
+C:\TRAINING\Synchronization\Synchronization\obj\Debug\Synchronization.csproj.CoreCompileInputs.cache
+C:\TRAINING\Synchronization\Synchronization\obj\Debug\Synchronization.exe
+C:\TRAINING\Synchronization\Synchronization\obj\Debug\Synchronization.pdb

@@ -1,0 +1,7 @@
+C:\TRAINING\PLinq\PLinq\bin\Debug\PLinq.exe.config
+C:\TRAINING\PLinq\PLinq\bin\Debug\PLinq.exe
+C:\TRAINING\PLinq\PLinq\bin\Debug\PLinq.pdb
+C:\TRAINING\PLinq\PLinq\obj\Debug\PLinq.csproj.AssemblyReference.cache
+C:\TRAINING\PLinq\PLinq\obj\Debug\PLinq.csproj.CoreCompileInputs.cache
+C:\TRAINING\PLinq\PLinq\obj\Debug\PLinq.exe
+C:\TRAINING\PLinq\PLinq\obj\Debug\PLinq.pdb

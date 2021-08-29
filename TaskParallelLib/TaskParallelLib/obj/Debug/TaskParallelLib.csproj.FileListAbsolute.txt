@@ -1,0 +1,7 @@
+C:\TRAINING\TaskParallelLib\TaskParallelLib\bin\Debug\TaskParallelLib.exe.config
+C:\TRAINING\TaskParallelLib\TaskParallelLib\bin\Debug\TaskParallelLib.exe
+C:\TRAINING\TaskParallelLib\TaskParallelLib\bin\Debug\TaskParallelLib.pdb
+C:\TRAINING\TaskParallelLib\TaskParallelLib\obj\Debug\TaskParallelLib.csproj.AssemblyReference.cache
+C:\TRAINING\TaskParallelLib\TaskParallelLib\obj\Debug\TaskParallelLib.csproj.CoreCompileInputs.cache
+C:\TRAINING\TaskParallelLib\TaskParallelLib\obj\Debug\TaskParallelLib.exe
+C:\TRAINING\TaskParallelLib\TaskParallelLib\obj\Debug\TaskParallelLib.pdb
